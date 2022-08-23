@@ -1,0 +1,44 @@
+/*Selector {
+    Property: value;
+}*/
+
+
+h1 {
+  text-align: left;
+}
+
+nav {
+  text-align: right;
+  font-size: 2em;
+  background-color: gray;
+  color: black;
+} 
+
+.header_bar {
+  background-color: darkgray;
+}
+
+.logo {
+  color: white;
+  font-size: 8em;
+}
+
+.logo_sub {
+  color: white;
+  font-size: 3.5em;
+}
+
+ol {
+  list-style: square;
+  font-size: 1.2em;
+}
+
+ul {
+  list-style: circle;
+  font-size: .9em;
+}
+
+form {
+  border: 3px;
+  align-items: center;
+}
